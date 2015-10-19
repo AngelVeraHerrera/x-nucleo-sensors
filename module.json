@@ -1,0 +1,25 @@
+{
+  "name": "x-nucleo-sensors",
+  "version": "0.0.0",
+  "description": "Library for STMicroelectronics' Sensors.",
+  "keywords": [
+    "sensors",
+    "mems",
+    "motion",
+    "temperature",
+    "humidity",
+    "magnetometer",
+    "pressure",
+    "accelerometer",
+    "gyroscope"
+  ],
+  "author": "wolfgang.betz@st.com",
+  "homepage": "http://www.st.com",
+  "license": "Apache-2.0",
+  "extraIncludes": [
+    "x-nucleo-sensors/Interfaces"
+  ],
+  "dependencies": {
+    "mbed-hal" : "*"
+  }
+}
