@@ -39,7 +39,7 @@
 #define __LSM6DS3_CLASS_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "mbed/mbed.h"
+#include "mbed-drivers/mbed.h"
 #include "x-nucleo-common/DevI2C.h"
 #include "lsm6ds3.h"
 #include "../Interfaces/GyroSensor.h"

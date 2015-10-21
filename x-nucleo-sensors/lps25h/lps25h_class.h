@@ -39,7 +39,7 @@
 #define __LPS25H_CLASS_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "mbed/mbed.h"
+#include "mbed-drivers/mbed.h"
 #include "x-nucleo-common/DevI2C.h"
 #include "lps25h.h"
 #include "../Interfaces/PressureSensor.h"

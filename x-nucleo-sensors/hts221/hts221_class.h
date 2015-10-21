@@ -39,7 +39,7 @@
 #define __HTS221_CLASS_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "mbed/mbed.h"
+#include "mbed-drivers/mbed.h"
 #include "x-nucleo-common/DevI2C.h"
 #include "hts221.h"
 #include "../Interfaces/HumiditySensor.h"
