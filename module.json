@@ -20,6 +20,6 @@
     "x-nucleo-sensors/Interfaces"
   ],
   "dependencies": {
-    "mbed-hal": "*"
+    "mbed-hal": "^1.0.0"
   }
 }
