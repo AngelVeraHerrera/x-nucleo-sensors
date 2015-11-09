@@ -1,6 +1,6 @@
 {
   "name": "x-nucleo-sensors",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Library for STMicroelectronics' Sensors.",
   "keywords": [
     "sensors",
