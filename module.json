@@ -14,12 +14,16 @@
     "gyroscope"
   ],
   "author": "wolfgang.betz@st.com",
-  "homepage": "http://www.st.com",
+  "homepage": "https://github.com/ARMmbed/x-nucleo-sensors",
   "license": "Apache-2.0",
   "extraIncludes": [
     "x-nucleo-sensors/Interfaces"
   ],
   "dependencies": {
     "mbed-hal": "^1.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/ARMmbed/x-nucleo-sensors.git",
+    "type": "git"
   }
 }
