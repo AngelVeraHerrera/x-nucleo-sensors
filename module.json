@@ -11,7 +11,12 @@
     "magnetometer",
     "pressure",
     "accelerometer",
-    "gyroscope"
+    "gyroscope",
+    "LSM6DS0",
+    "LIS3MDL",
+    "HTS221",
+    "LPS25H",
+    "LSM6DS3"
   ],
   "author": "wolfgang.betz@st.com",
   "homepage": "https://github.com/ARMmbed/x-nucleo-sensors",
