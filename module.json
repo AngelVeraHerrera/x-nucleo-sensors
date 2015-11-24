@@ -3,6 +3,12 @@
   "version": "1.0.3",
   "description": "Library for STMicroelectronics' Sensors.",
   "keywords": [
+    "x-nucleo",
+    "nucleo",
+    "sensor",
+    "component",
+    "ST",
+    "STM",
     "sensors",
     "mems",
     "motion",
